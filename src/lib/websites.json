@@ -1,0 +1,114 @@
+[
+    {
+        "websiteName": "youtube",
+        "baseUrl": "https://youtube.com",
+        "searchUrl": "https://youtube.com/results?search_query=",
+        "loginUrl": "https://youtube.com/account"
+    },
+    {
+        "websiteName": "twitter",
+        "baseUrl": "https://twitter.com",
+        "searchUrl": "https://twitter.com/search?q=",
+        "loginUrl": "https://twitter.com/login"
+    },
+    {
+        "websiteName": "facebook",
+        "baseUrl": "https://facebook.com",
+        "searchUrl": "https://facebook.com/search/top/?q="
+    },
+    {
+        "websiteName": "instagram",
+        "baseUrl": "https://instagram.com",
+        "searchUrl": "https://instagram.com/explore/tags/"
+    },
+    {
+        "websiteName": "github",
+        "baseUrl": "https://github.com",
+        "searchUrl": "https://github.com/search?q="
+    },
+    {
+        "websiteName": "linkedin",
+        "baseUrl": "https://linkedin.com",
+        "searchUrl": "https://linkedin.com/search/results/all/?keywords="
+    },
+    {
+        "websiteName": "stackoverflow",
+        "baseUrl": "https://stackoverflow.com",
+        "searchUrl": "https://stackoverflow.com/search?q="
+    },
+    {
+        "websiteName": "reddit",
+        "baseUrl": "https://reddit.com",
+        "searchUrl": "https://reddit.com/search/?q="
+    },
+    {
+        "websiteName": "twitch",
+        "baseUrl": "https://twitch.tv",
+        "searchUrl": "https://twitch.tv/search?term="
+    },
+    {
+        "websiteName": "tiktok",
+        "baseUrl": "https://tiktok.com",
+        "searchUrl": "https://tiktok.com/tag/"
+    },
+    {
+        "websiteName": "whatsapp",
+        "baseUrl": "https://whatsapp.com"
+    },
+    {
+        "websiteName": "telegram",
+        "baseUrl": "https://telegram.com"
+    },
+    {
+        "websiteName": "netflix",
+        "baseUrl": "https://netflix.com"
+    },
+    {
+        "websiteName": "spotify",
+        "baseUrl": "https://spotify.com"
+    },
+    {
+        "websiteName": "amazon",
+        "baseUrl": "https://amazon.com"
+    },
+    {
+        "websiteName": "ebay",
+        "baseUrl": "https://ebay.com"
+    },
+    {
+        "websiteName": "paypal",
+        "baseUrl": "https://paypal.com"
+    },
+    {
+        "websiteName": "wikipedia",
+        "baseUrl": "https://wikipedia.org"
+    },
+    {
+        "websiteName": "google",
+        "baseUrl": "https://google.com"
+    },
+    {
+        "websiteName": "bing",
+        "baseUrl": "https://bing.com"
+    },
+    {
+        "websiteName": "duckduckgo",
+        "baseUrl": "https://duckduckgo.com"
+    },
+    {
+        "websiteName": "yahoo",
+        "baseUrl": "https://yahoo.com"
+    },
+    {
+        "websiteName": "baidu",
+        "baseUrl": "https://baidu.com"
+    },
+    {
+        "websiteName": "yandex",
+        "baseUrl": "https://yandex.com"
+    },
+    {
+        "websiteName": "quora",
+        "baseUrl": "https://quora.com"
+    }
+]
